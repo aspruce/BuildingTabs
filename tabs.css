@@ -1,0 +1,16 @@
+div.nav-tab
+{
+  border-style: solid;
+  background-color:AliceBlue;
+}
+
+a.navigation
+{
+  text-decoration:none;
+  background-color: DarkBlue;
+}
+
+div.nav-tab:hover, div.nav-tab:active
+{
+  background-color:CornflowerBlue;
+}
